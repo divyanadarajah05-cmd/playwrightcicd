@@ -4,6 +4,7 @@ trigger:
 pool:
   vmImage: ubuntu-latest
 
+
 steps:
 - task: UseNode@1
   inputs:
